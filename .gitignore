@@ -1,0 +1,32 @@
+# Compiled binaries and objects
+*.o
+*.out
+*.exe
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build outputs
+phase1
+phase2
+phase3
+phase4
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Coverage / test artifacts (if any)
+coverage/
+*.gcda
+*.gcno
+*.gcov
